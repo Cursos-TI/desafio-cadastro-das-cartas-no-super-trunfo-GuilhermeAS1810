@@ -12,7 +12,7 @@ int main() {
 
     // Entrada de dados para a primeira carta
     printf("Digite os dados da primeira carta:\n");
-    printf("População: ");1200000
+    printf("População:120000 ");
     scanf("%d", &carta1.populacao);1200000
     printf("Área: ");850.75
     scanf("%f", &carta1.area);
